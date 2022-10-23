@@ -1,0 +1,4 @@
+1|PRIVATE|16/03/1990|John|Smith|66225567|12 Bigg Street, Lismore, NSW, 2480
+2|PRIVATE|15/11/2000|Jan Louise|Hillman|0478365232|83 Molesworth Lane, Brisbane, QLD, 4000
+3|CORPORATE|98278332|Bill|Buckinsworth|0478998822|1 The Promenade, Springfield Lakes, QLD, 4300
+4|CORPORATE|11190022|Liam|Neilson|0478382900|545 Old Road, Kingaroy, QLD, 4610
